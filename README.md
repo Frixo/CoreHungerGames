@@ -1,0 +1,2 @@
+# CoreHungerGames
+CoreHungerGames minecraft plugin.
